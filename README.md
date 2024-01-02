@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning .Net core
 - 📫 How to reach me: mucahitdurdu54@gmail.com
 -[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DurDu54&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurDu54)](https://github.com/anuraghazra/github-readme-stats)
